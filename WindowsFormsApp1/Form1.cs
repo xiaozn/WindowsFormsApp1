@@ -21,33 +21,7 @@ namespace WindowsFormsApp1
         {
             //111
             Console.WriteLine("123");
-            Console.WriteLine("123");
-            Console.WriteLine("123");
-            Console.WriteLine("123");
-            Console.WriteLine("123");
-            Console.WriteLine("123");
-            //111
-            Console.WriteLine("123");
-            Console.WriteLine("123");
-            Console.WriteLine("123");
-            Console.WriteLine("123");
-            Console.WriteLine("123");
-            Console.WriteLine("123");
-            //111222
-            Console.WriteLine("123");
-            Console.WriteLine("123");
-            Console.WriteLine("123");
-            Console.WriteLine("123");
-            Console.WriteLine("123");
-            Console.WriteLine("123");
-
-            //1112225555
-            Console.WriteLine("123");
-            Console.WriteLine("123");
-            Console.WriteLine("123");
-            Console.WriteLine("123");
-            Console.WriteLine("123");
-            Console.WriteLine("123");
+           
 
         }
     }
